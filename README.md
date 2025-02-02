@@ -24,7 +24,7 @@ Data analysis, dashboards, Model Building/Mantaining, and business strategies An
 My internships were in public relations, where I honed my communication and creativity skills. Now, I combine these skills with my data science expertise to contribute more effectively to the industry.
 
 ## 🚀 Check Out My Portfolio
-Portfolio Links: https://ashariksan9.github.io/Github_Portfolio/
+Portfolio Links: [My Portfolio](https://ashariksan9.github.io/Github_Portfolio/)
 
 ## 📫 Let's Connect!
 LinkedIn: [Muhammad Ashar Ihsan](https://www.linkedin.com/in/muhammadasharihsan/) || Email: [ashar4iksan@gmail.com](mailto:ashar4iksan@gmail.com)
